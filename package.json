@@ -9,14 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajshankarM/Booking-Backend-Api.git"
+   
+      "url": "git+https://github.com/krishnaveni44/Hotel-Booking-Backend-Api.git"
+
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rajshankarM/Booking-Backend-Api/issues"
+    "url": "https://github.com/krishnaveni44/Hotel-Booking-Backend-Api/issues"
   },
-  "homepage": "https://github.com/rajshankarM/Booking-Backend-Api#readme",
+  "homepage": "https://github.com/krishnaveni44/Hotel-Booking-Backend-Api#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
@@ -28,3 +30,4 @@
     "nodemon": "^2.0.16"
   }
 }
+
