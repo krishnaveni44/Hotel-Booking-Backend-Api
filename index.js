@@ -57,6 +57,3 @@ app.get('/', function (request, response)
 
 
  
-// "url": "git+https://github.com/rajshankarM/Booking-Backend-Api.git"
-//  "url": "https://github.com/rajshankarM/Booking-Backend-Api/issues"
-// "https://github.com/rajshankarM/Booking-Backend-Api#readme",
